@@ -1,4 +1,27 @@
-# TON Connect Wallets
+                                    
+  {
+    "action": {
+      "from": "0xdd3d72c53ff982ff59853da71158bf1538b3ceee",
+      "callType": "call",
+      "gas": "0x8867",
+      "input": "0xa9059cbb000000000000000000000000d1f55418b174f6156ad401d3b8b836ad51507e4600000000000000000000000000000000000000000000241d95b566a394a31800",
+      "to": "0x249ca82617ec3dfb2589c4c17ab7ec9765350a18",
+      "value": "0x0"
+    },
+    "blockHash": "0x033a491f881798cce0004679bd31c7cc42d005a078c29d0c4c1e4c84437df878",
+    "blockNumber": 21473827,
+    "result": {
+      "gasUsed": "0x7443",
+      "output": "0x0000000000000000000000000000000000000000000000000000000000000001"
+    },
+    "subtraces": 0,
+    "traceAddress": [],
+    "transactionHash": "0xe752f665857056c0cac94e5443b2bb223f604f721783fc03e2ca61ff827de045",
+    "transactionPosition": 101,
+    "type": "call"
+  }
+
+                                 TON Connect Wallets
 
 This repository contains the list of wallets that support TON Connect.
 
